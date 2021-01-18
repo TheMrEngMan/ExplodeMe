@@ -1,0 +1,9 @@
+# Messages
+reloaded-message: '&8[&7ExplodeMe&8] &aConfiguration was reloaded!'
+no-permission-message: '&8[&7ExplodeMe&8] &cSorry, you don''t have permission to do that!'
+
+# How far can players be to a bed/respawn anchor to consider them in the area of influence
+block-explode-check-radius: 10
+
+# Print debug messages to console (leave as false)
+debug: false

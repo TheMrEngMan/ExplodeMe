@@ -1,0 +1,16 @@
+name: ExplodeMe
+main: com.MrEngMan.ExplodeMe.ExplodeMe
+author: MrEngMan
+description: Only take damage from beds and end crystals you explode
+api-version: '1.13'
+version: 1.0
+
+commands:
+    emreload:
+      description: Reload Config
+      usage: '/emreload'
+     
+permissions:
+  emreload.reload:
+    default: op
+
